@@ -1,0 +1,15 @@
+body {
+  font-size: 3rem;
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+
+#name {
+  color: blue;
+  border: dotted 3px white;
+}
+
+#favorites {
+  text-align: left;
+}
